@@ -19,7 +19,7 @@ def speak_to_grandma(string)
   elsif string!=string.upcase
     "huh?! speak up sonny!".upcase
   else 
-    "no, not since 1938".upcase
+    "no, not since 1938!".upcase
   end
 end
 #phrase="hi"
