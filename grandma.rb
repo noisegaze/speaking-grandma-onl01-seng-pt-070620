@@ -10,7 +10,7 @@
 # NO, NOT SINCE 1938!
 
 # However if you say 'I LOVE YOU GRANDMA!', she
-should respond with
+#should respond with
 
 string="I love you grandma".upcase
 def speak_to_grandma(string)
